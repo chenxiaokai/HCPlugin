@@ -1,0 +1,149 @@
+:buildsrc:compileJava UP-TO-DATE
+:buildsrc:compileGroovy
+:buildsrc:processResources UP-TO-DATE
+:buildsrc:classes
+:buildsrc:jar
+:buildsrc:assemble
+:buildsrc:compileTestJava UP-TO-DATE
+:buildsrc:compileTestGroovy UP-TO-DATE
+:buildsrc:processTestResources UP-TO-DATE
+:buildsrc:testClasses UP-TO-DATE
+:buildsrc:test UP-TO-DATE
+:buildsrc:check UP-TO-DATE
+:buildsrc:build
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\lenovo\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+-------------------> dir = E:\github\HCPlugin
+Incremental java compilation is an incubating feature.
+:app:preBuild UP-TO-DATE
+:app:preReleaseBuild UP-TO-DATE
+:app:checkReleaseManifest
+:app:preDebugBuild UP-TO-DATE
+:app:prepareComAndroidSupportAnimatedVectorDrawable2400Library
+:app:prepareComAndroidSupportAppcompatV72400Library
+:app:prepareComAndroidSupportSupportV42400Library
+:app:prepareComAndroidSupportSupportVectorDrawable2400Library
+:app:prepareReleaseDependencies
+:app:compileReleaseAidl
+:app:compileReleaseRenderscript
+:app:generateReleaseBuildConfig
+:app:generateReleaseResValues
+:app:generateReleaseResources
+:app:mergeReleaseResources
+:app:processReleaseManifest
+:app:processReleaseResources
+:app:generateReleaseSources
+:app:incrementalReleaseJavaCompilationSafeguard
+:app:javaPreCompileRelease
+:app:compileReleaseJavaWithJavac
+:app:compileReleaseJavaWithJavac - is not incremental (e.g. outputs have changed, no previous execution, etc.).
+:app:compileReleaseNdk UP-TO-DATE
+:app:compileReleaseSources
+:app:lintVitalRelease
+:app:mergeReleaseShaders
+:app:compileReleaseShaders
+:app:generateReleaseAssets
+:app:mergeReleaseAssets
+:app:transformClassesWithCxkTransForRelease
+=======> jarName =75b8d80ac9b152522f1687ec044de6ee9872f850
+=======> jarNamePath =C:\Users\lenovo\.android\build-cache\d62f8315880d812293c88f58ca48aa1a13b1dcc3\output\jars\classes.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\75b8d80ac9b152522f1687ec044de6ee9872f850038967b67b4eb0c3a1c784982b77a0fb.jar
+
+=======> jarName =4aef105f9794937e2b4c1436c4962f80d0c15993
+=======> jarNamePath =C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\4aef105f9794937e2b4c1436c4962f80d0c15993aef5e588900d08c3223142ba2a5b3037.jar
+
+=======> jarName =b664fb4c38ef505243e71bf21b7b4327ada9acf3
+=======> jarNamePath =C:\Users\lenovo\.android\build-cache\208208583d6a34d112b921e7c54958d4019ac6b2\output\jars\classes.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\b664fb4c38ef505243e71bf21b7b4327ada9acf33fd1e55027e631f83d5302eff6192446.jar
+
+=======> jarName =3a56f972b7d83e3183459c5ec9270d8403ae8477
+=======> jarNamePath =C:\Users\lenovo\.android\build-cache\c44a7ef63fc4372225d5d85fb8b428ecc0e4e9a0\output\jars\classes.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\3a56f972b7d83e3183459c5ec9270d8403ae8477f2550781a0d602fc21da8a074fdf592f.jar
+
+=======> jarName =1907ff264942373c976989fc33e891bf7700fef7
+=======> jarNamePath =C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\1907ff264942373c976989fc33e891bf7700fef77a37712dc77a1a93b360d495b64ee937.jar
+
+=======> jarName =131d0fbb9bf398c27c82e34d8004d826df476227
+=======> jarNamePath =C:\Users\lenovo\.android\build-cache\860c04213a5fbf9c43157c12abb12a6acee666f2\output\jars\classes.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\131d0fbb9bf398c27c82e34d8004d826df47622792b1a14d2f606a54011d04b7a1fa1294.jar
+
+=======> jarName =25ac5e3b4d2dd5b6fd78fd75ae20789e9d8b2d6f
+=======> jarNamePath =C:\Users\lenovo\.android\build-cache\860c04213a5fbf9c43157c12abb12a6acee666f2\output\jars\libs\internal_impl-24.0.0.jar
+=======> jarInput dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\jars\1\10\25ac5e3b4d2dd5b6fd78fd75ae20789e9d8b2d6ff7115ee6d66a8422bdbc735d4b936eac.jar
+
+-------------> DirectoryInput file path = E:\github\HCPlugin\app\build\intermediates\classes\release
+-------------> DirectoryInput Name = 100b1e8343a076baf6eff18361d02aad422f856e
+
+=======>E:\github\HCPlugin\app\build\intermediates\classes\release, packageName=com\hc\hcplugin
+
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\graphics
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\graphics\drawable
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\graphics\drawable\animated
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\graphics\drawable\animated\R.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\graphics\drawable\R.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v4
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v4\R.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$anim.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$attr.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$bool.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$color.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$dimen.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$drawable.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$id.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$integer.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$layout.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$string.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$style.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R$styleable.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\android\support\v7\appcompat\R.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\BuildConfig.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\MainActivity.class
+=======>  className = com.hc.hcplugin.MainActivity
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$anim.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$attr.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$bool.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$color.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$dimen.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$drawable.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$id.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$integer.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$layout.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$mipmap.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$string.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$style.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R$styleable.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\R.class
+=======>  filePath = E:\github\HCPlugin\app\build\intermediates\classes\release\com\hc\hcplugin\Test.class
+=======>  className = com.hc.hcplugin.Test
+=======> directory dest=E:\github\HCPlugin\app\build\intermediates\transforms\CxkTrans\release\folders\1\1\100b1e8343a076baf6eff18361d02aad422f856e
+:app:transformClassesWithDexForRelease
+
+Running dex as a separate process.
+
+To run dex in process, the Gradle daemon needs a larger heap.
+It currently has 1024 MB.
+For faster builds, increase the maximum heap size for the Gradle daemon to at least 1536 MB.
+To do this set org.gradle.jvmargs=-Xmx1536M in the project gradle.properties.
+For more information see https://docs.gradle.org/current/userguide/build_environment.html
+
+:app:mergeReleaseJniLibFolders
+:app:transformNativeLibsWithMergeJniLibsForRelease
+:app:processReleaseJavaRes UP-TO-DATE
+:app:transformResourcesWithMergeJavaResForRelease
+:app:packageRelease
+:app:assembleRelease
+
+BUILD SUCCESSFUL
+
+Total time: 10.25 secs
